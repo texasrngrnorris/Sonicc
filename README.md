@@ -9,3 +9,8 @@ Build Sonicc to be multi-platform and possibly move away from Mono and .NET fram
 
 # Target Language
 Python (Latest)
+
+
+#Discord
+Permanent link to the Discord server:
+https://discord.gg/n2ycHEv
