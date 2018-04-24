@@ -6,6 +6,7 @@ Sonicc is currently pre-development
 
 # Goals
 Build Sonicc to be multi-platform and possibly move away from Mono and .NET frameworks, to be more lightweight.
+Add support for E-Books?
 
 # Target Language
 Python (Latest)
