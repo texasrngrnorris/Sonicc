@@ -10,8 +10,13 @@ Add support for E-Books?
 
 # Target Language
 Python (Latest)
-
+js
 
 # Discord
 Permanent link to the Discord server:
 https://discord.gg/n2ycHEv
+
+
+# ideas
+possibly use audible API to fetch book lists
+https://www.npmjs.com/package/audible-api
